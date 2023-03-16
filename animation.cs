@@ -4,6 +4,8 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 
+//Controls the animation of the main menu items: the title card and the how to play page
+
 public class animation : MonoBehaviour{
     enum Direction{right, left}; 
     enum Phase{on, off}; 
