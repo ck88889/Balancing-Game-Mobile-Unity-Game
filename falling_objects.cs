@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using Random = System.Random; 
 
+//Controls the behavior of all falling objects in the game
+
 public class falling_objects : MonoBehaviour{
 
     //camera coordinates 
