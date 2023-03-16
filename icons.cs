@@ -5,7 +5,7 @@ using UnityEngine.UI;
 using TMPro;
 using System.IO;
 
-//Controls the behavior of all of the non-playable parts of the game: the reset and home button, the timer, and current record display 
+//Controls the behavior of all of the non-playable parts while the user is playing the game: the reset and home button, the timer, and current record display 
 
 public class icons : MonoBehaviour{
 	//camera coordinates 
