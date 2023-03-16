@@ -5,6 +5,9 @@ using UnityEngine.UI;
 using TMPro;
 using UnityEngine.EventSystems; 
 
+/*Controls all the navigation in the main menu of the game: switching from the main menu to game mode, 
+switching between different windows within the main page, and changing characters */
+
 public class main_menu : MonoBehaviour{
     public static bool isPlay = false;
 
