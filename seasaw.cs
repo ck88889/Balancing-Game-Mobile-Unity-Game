@@ -4,6 +4,8 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 
+//Allows the player to move the base of the seesaw horiztonally within the boundaries of the screen to balance the beam above it
+
 public class seasaw : MonoBehaviour{
     enum Direction{right, left}; 
     private Direction swipe; 
