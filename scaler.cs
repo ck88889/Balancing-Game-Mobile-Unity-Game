@@ -4,6 +4,8 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 
+//Scales all the sprites and buttons in the game to the user's phone size
+
 public class scaler : MonoBehaviour{
 
     //camera coordinates 
